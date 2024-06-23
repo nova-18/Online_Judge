@@ -1,0 +1,27 @@
+body {
+  background-image: url('https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+/* .container {
+  max-width: 1200px;
+}
+
+.header {
+  padding: 0 16px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.question-display {
+  height: 300px;
+  overflow-y: auto;
+}
+
+.outputbox {
+  margin-top: 16px;
+} */
